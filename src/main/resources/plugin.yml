@@ -1,0 +1,7 @@
+name: wVanish
+version: 1.0
+main: com.contattos.wvanish.Main
+depend: [ActionBarAPI]
+commands:
+  vanish:
+  rtp:
